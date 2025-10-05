@@ -32,7 +32,7 @@ button{
     margin-top: 26px;
 }
 
-#home-score{
+.score{
     display: flex;
     justify-content: center;
     align-items: center;
